@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>令和技術 / REIWA Engineering</title>
+    <link>/</link>
+    <description>Recent content on 令和技術 / REIWA Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 May 2019 22:10:56 +0900</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>会社概要</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description> 会社概要 名称令和技術合同会社 設立平成３１年４月２２日 所在地千葉県市原市  メンバー 代表社員大山 裕泰
+DMM.com にて StackStorm によるインフラの運用効率化に取り組む一方で、StackStorm のアップストリームへの開発及び、ユーザコミュニティ活動に貢献。日本 StackStorm ユーザ会 初代会長。   事業内容 1. StackStorm 技術サポート  環境構築、運用設計の支援 pack の検証、及び機能拡張 システム移行、運用サポート など  </description>
+    </item>
+    
+    <item>
+      <title>事業内容</title>
+      <link>/sections/solution/</link>
+      <pubDate>Sat, 25 May 2019 22:10:56 +0900</pubDate>
+      
+      <guid>/sections/solution/</guid>
+      <description>StackStorm 技術サポート イベントドリブンな運用自動化プラットフォーム StackStorm の技術サポート（導入サポート、カスタマイズ、運用サポート）を行い、安心して当該システムの運用・利用が行える環境作りをお手伝い致します。</description>
+    </item>
+    
+  </channel>
+</rss>
